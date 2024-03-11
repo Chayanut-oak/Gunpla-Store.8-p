@@ -3,7 +3,7 @@ export default {
   devtools: { enabled: true },
   runtimeConfig: {
     public: {
-      baseURL: `${process.env.BASE_URL}/api`|| "http://3.80.30.17/api",
+      baseURL: `${process.env.BASE_URL}/api`|| "http://18.205.103.60/api",
     }
   },
   modules: [
